@@ -1,11 +1,7 @@
 ## Engagedly
 <p align="center">
-Open-source E-commerce Solution. 
-<br>Built using MEVN Stack (Node.js, Express.js, Vue.js, MongoDB) with Developer Friendliness and Cloud Integrations in mind.
-<br>
-<br><strong>Previously powered the Veniqa New York Startup</strong>.
-</p>
-
+E-commerce Solution. 
+  
 ## Perfect For Boostrapped Startups :
 I love Woocommerce & Squarespace! But vendor lock-in and zero code access isn't for everyone.
 
